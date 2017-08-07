@@ -1,3 +1,8 @@
 img.profile-image-small {
-	max-width: 50px;
+  max-width: 50px;
+}
+
+form.sort-select {
+  float: right;
+  margin-top: -25px;
 }
